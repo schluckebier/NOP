@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=tcp:nop-server.database.windows.net,1433;Initial Catalog=NOP;User ID=David@nop-server;Password=Apple1234;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False
